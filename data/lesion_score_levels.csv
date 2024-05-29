@@ -1,0 +1,75 @@
+﻿Organ;Charateristic;Levels
+Peritoneum;Inflammatory reaction;"0: None
+1: Local at the entrance
+2: Around the ovary
+3: In the omentum
+4: All peritoneum"
+;Amount of exudate;"0: None
+1: Sparse
+2: Some
+3: Abundant"
+;Type of exudate;"0: None
+1: Aqueous
+2: Lump of pus
+3: Flakes
+4: Confluent"
+;Transparency;"0: Clear
+1: Nuclear
+2: Cloudy
+3: Milky
+4: Opaque"
+Airsac (left);Transparency;"0: Clear
+1: Nuclear
+2: Cloudy
+3: Milky
+4: Opaque"
+;Amount of exudate;"0: None
+1: Sparse
+2: Some
+3: Abundant"
+Lung (left);Amount of exudate;"0: None
+1: Sparse
+2: Some
+3: Abundant"
+;Congestion;"0: None
+1: Sparse (<25% of lung tissue)
+2: Pronounced (>25% of lung tissue)"
+;Lesions (oedema);"0: None
+1: Slight oedema of the alveolar walls
+2: Moderate oedematous thickening of alveolar walls with occasional alveoli containing
+coagulated oedema fluids
+3: Extensive occurrence of alveolar and interstitial oedema"
+;Lesions (size);"0: No lesions
+1: Small lesions between 1 cm2 and 2 cm2
+2: Moderate-size lesions between 3 cm2 and 4 cm2
+3: Extensive lesions with more than 4 cm2 and covering almost all the area of the lungs"
+;Granulomas;"0: None
+1: Few small white caseous/spherical nodules
+2: Numerous small white caseous/spherical nodules
+3: Many caseous lesions/nodules and green-gray mold due to sporulation"
+Spleen;Proliferation;"0: None
+1: Little proliferation
+2: Distinct proliferation"
+;Length and width in cm;"0: None
+1: Lesss than double size
+2: More than double size
+3: Atrophic/depleted"
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
